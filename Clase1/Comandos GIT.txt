@@ -1,0 +1,9 @@
+git add -> agregar archivos al repo
+git commit -m -> subir cambios al git
+git log -> ver que cambios se realizaron en el proyecto
+
+crear un archivo .gitignore + agregar los nombres y el tipo de archivo al .gitignore para ocultar los cambios y archivos que desee
+
+git push -> subir los archivos a la nube
+git pull -> bajar los archivos de la nube
+git status -> ver el estado de los archivos modificados 
