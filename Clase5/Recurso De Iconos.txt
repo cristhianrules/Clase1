@@ -1,8 +1,0 @@
-https://cdnjs.com/libraries/font-awesome
-https://fontawesome.com/
-
-vamos a la pagina
-buscamos el tipo de icono
-ponemos la seccion free
-elegimos el icono
-copiamos el codigo HTML
